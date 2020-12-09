@@ -1,0 +1,43 @@
+body{
+    background: url('../Images/paisajeAzul.jpeg');
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+.titulo{
+    background: #2f77e5;
+}
+
+#menu ul li:hover{
+    background: #2f77e5;
+}
+
+.mantenerColor{
+    background: #2f77e5;
+}
+
+.btnMore{
+    background: #2f77e5;
+}
+
+#closeSession{
+    background: #2f77e5;
+}
+
+.btnEnviar{
+    background: #2f77e5;
+    border: 1px solid #2f77e5;
+}
+
+#blue{
+    transform: scale(1.1);
+}
+
+#acordeon h3:active {
+    background: #2f77e5 !important;
+}
+
+.ui-state-active{
+    border: 1px solid #2f77e5 !important;
+    background: #2f77e5 !important;
+}

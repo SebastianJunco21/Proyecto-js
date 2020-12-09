@@ -1,0 +1,43 @@
+body{
+    background: url('../Images/paisajeRojo.jpg');
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+.titulo{
+    background: #bd0606;
+}
+
+#menu ul li:hover{
+    background: #bd0606;
+}
+
+.mantenerColor{
+    background: #bd0606;
+}
+
+.btnMore{
+    background: #bd0606;
+}
+
+#closeSession{
+    background: #bd0606;
+}
+
+.btnEnviar{
+    background: #bd0606;
+    border: 1px solid #bd0606;
+}
+
+#red{
+    transform: scale(1.1);
+}
+
+#acordeon h3:active {
+    background: #bd0606 !important;
+}
+
+.ui-state-active{
+    border: 1px solid #bd0606 !important;
+    background: #bd0606 !important;
+}
